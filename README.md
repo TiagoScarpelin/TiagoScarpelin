@@ -30,3 +30,5 @@ Here are some ideas to get you started:
   src="https://github-readme-streak-stats.herokuapp.com/?user=TiagoScarpelin&theme=vue-dark&hide_border=false"
   alt="Github stats"
 />
+
+![Snake animation](https://github.com/TiagoScarpelin/TiagoScarpelin/blob/output/github-contribution-grid-snake.svg)
