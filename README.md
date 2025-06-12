@@ -17,16 +17,16 @@ Here are some ideas to get you started:
 
 <img
   style="height:120px"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoScarpelin&layout=compact&theme=vue"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoScarpelin&layout=compact&theme=vue-dark"
   alt="Github stats"
 />
 <img   
   style="height:120px"
-  src="https://github-readme-stats.vercel.app/api?username=TiagoScarpelin&theme=vue&hide_border=false&include_all_commits=true&count_private=true"
+  src="https://github-readme-stats.vercel.app/api?username=TiagoScarpelin&theme=vue-dark&show_icons=true"
   alt="Github stats"
 />
 <img
   style="height:120px"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=TiagoScarpelin&theme=vue&hide_border=false"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=TiagoScarpelin&theme=vue-dark&hide_border=false"
   alt="Github stats"
 />
