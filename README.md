@@ -1,33 +1,20 @@
-## 👋 Hello and Welcome to My GitHub!
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=33&duration=2000&pause=4000&color=00FF0090&width=620&height=100&lines=👋+Welcome+to+My+GitHub!!"  />
+</div>
 
-<img src="./images/image.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+## ✍ About me
 
-### About me
-
-
-
-
-
-
-### 🪪 Profile
-<img
-  style="height:120px"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoScarpelin&layout=compact&theme=vue-dark"
-  alt="Github stats"
-/>
-<img   
-  style="height:120px"
-  src="https://github-readme-stats.vercel.app/api?username=TiagoScarpelin&theme=vue-dark&show_icons=true"
-  alt="Github stats"
-/>
-<img
-  style="height:120px"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=TiagoScarpelin&theme=vue-dark&hide_border=false"
-  alt="Github stats"
-/>
+<p>
+  <img src="./images/image.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+  
+  <p>👨‍💻 Hi! I'm <strong>Tiago</strong>, a backend developer in training, passionate about technology and turning ideas into real solutions through code.</p>
+  <p>☕ I'm currently focused on Java with Spring Boot, while also exploring tools like Docker 🐳, PostgreSQL 🐘, and Git for version control.</p>
+  <p>📚 I'm constantly improving my skills in system architecture, RESTful API development, and clean code best practices.</p>
+  <p>🧠 I value continuous learning and knowledge sharing, and I enjoy working on projects that challenge my logic and broaden my perspective as a developer.</p>
+  <p>🚀 My goal is to grow every day and contribute to building efficient, scalable, and impactful backend solutions.</p>
+</p>
 
 ### 🤖 Technologies
-
 <div style="display: inline_block"><br>
   
   ![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -41,7 +28,28 @@
   
 </div>
 
-### 📫 Contacts
+### 🪪 Profile
+
+<p align="center">
+  <img
+    style="height:120px"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoScarpelin&layout=compact&theme=vue-dark"
+    alt="Github stats"
+  />
+  <img   
+    style="height:120px"
+    src="https://github-readme-stats.vercel.app/api?username=TiagoScarpelin&theme=vue-dark&show_icons=true"
+    alt="Github stats"
+  />
+  <img
+    style="height:120px"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=TiagoScarpelin&theme=vue-dark&hide_border=false"
+    alt="Github stats"
+  />
+</p>
+
+## 📫 Contacts
+<br>
 <div>
   
   <a href = "mailto:tiago.scarpelin02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -64,7 +72,7 @@ Here are some ideas to get you started:
 -->
        
   
-  ![Snake animation](https://github.com/TiagoScarpelin/TiagoScarpelin/blob/output/github-contribution-grid-snake.svg)
+
   
   
   
