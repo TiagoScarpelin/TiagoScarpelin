@@ -1,6 +1,15 @@
 ## 👋 Hello and Welcome to My GitHub!
 
-## 🪪 Profile
+<img src="./images/image.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+### About me
+
+
+
+
+
+
+### 🪪 Profile
 <img
   style="height:120px"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoScarpelin&layout=compact&theme=vue-dark"
@@ -17,7 +26,7 @@
   alt="Github stats"
 />
 
-## 🤖 Technologies
+### 🤖 Technologies
 
 <div style="display: inline_block"><br>
   
@@ -32,7 +41,7 @@
   
 </div>
 
-## 📫 Contacts
+### 📫 Contacts
 <div>
   
   <a href = "mailto:tiago.scarpelin02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
